@@ -1,0 +1,13 @@
+# Java
+*.class
+
+# Build folders
+bin/
+out/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
